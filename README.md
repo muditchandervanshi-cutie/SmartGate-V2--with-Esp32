@@ -13,7 +13,7 @@ Watch the complete project demonstration here:
 
 Google Drive Link:
 
-PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE
+https://drive.google.com/drive/folders/1tk6-Wclri2bZPOm6jQ01acqDBb2VAE_5
 
 ---
 
@@ -282,25 +282,7 @@ Closing Gate...
 
 ---
 
-📷 Project Images
 
-Prototype
-
-![Prototype](images/prototype.jpg)
-
-Wiring Diagram
-
-![Wiring Diagram](images/wiring.jpg)
-
-System Overview
-
-![System Overview](images/system.jpg)
-
-Demonstration
-
-![Demo](images/demo.jpg)
-
----
 
 🚀 Future Improvements
 
@@ -316,7 +298,7 @@ Monitoring
 - Timestamp recording
 - User activity history
 
-Connectivity
+Connctivity
 
 - Wi-Fi dashboard
 - Mobile notifications
