@@ -328,3 +328,7 @@ The project serves as a foundation for future IoT-enabled access-control systems
 This project is licensed under the MIT License.
 
 Feel free to use, modify, and build upon this project for educational and personal learning purposes.
+
+Note from Cutie! "The video and all the photos are taken from my mobile (Redmi Y2) so i apologise for the slightly bad quality of videos and bad audio. i usually don't speak in my videos so... apologies. 😊".
+Also, the servo motor's angle is small and the door which i made was too big for the small servo motor. so the door didn't fully open. however the system works just fine. and maybe in the future updates... i might just take the servo in the demo video without the gate to show the system as crafting a gate with cardboard pieces and paper is not my are
+of expertise. but I'm learning too. 
