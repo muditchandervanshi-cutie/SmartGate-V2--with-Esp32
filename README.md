@@ -7,7 +7,7 @@ Smart Gate V2 was developed as a practical embedded systems project to explore a
 
 ---
 
-📹 Demo Video
+📹 Demo Video + Photos
 
 Watch the complete project demonstration here:
 
