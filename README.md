@@ -1,4 +1,4 @@
-# SmartGate-V2--with-Esp32
+# SmartGate-V2-with-Esp32
 Smart Gate V2 🚪
 
 An ESP32-based Smart Access Control System that combines presence detection, proximity sensing, RFID authentication, and automated gate control to create a secure and interactive entry experience.
