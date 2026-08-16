@@ -215,6 +215,8 @@ The project demonstration showcases successful authentication using Owner, Admin
 
 🧠 State Machine Architecture
 
+~~~
+
 ┌─────────────┐
 │   Startup     │
 └──────┬──────┘
@@ -256,6 +258,8 @@ Close Gate      │
          ▼
 
        Ready
+
+~~~
 
 ---
 
